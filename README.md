@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-In this lab I will demonstrates performimg a Backdoor exploitation to the Metasploitable2 virtual machine. 
+This video demonstrates a Backdoor exploitation to the Metasploitable2 virtual machine. 
 <br />
 
 <h2>Lab walk-through:</h2>
