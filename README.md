@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-This lab demonstrates an exploitation to the Metasploitable2 virtual machine. 
+In this lab I will demonstrates performimg a Backdoor exploitation to the Metasploitable2 virtual machine. 
 <br />
 
 <h2>Lab walk-through:</h2>
@@ -42,6 +42,11 @@ This lab demonstrates an exploitation to the Metasploitable2 virtual machine.
 <p align="center">Displaying the required settings
 <br/>
 <img src="https://i.imgur.com/3hhT6c6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Performing the exploitation and displaying the ip address of the Metasploitable2 machine 10.0.2.3
+<br/>
+<img src="https://i.imgur.com/XoMmqVP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center">Performing the exploitation and displaying the ip address of the Metasploitable2 machine 10.0.2.3
