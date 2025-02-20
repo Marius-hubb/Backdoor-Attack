@@ -1,6 +1,6 @@
 <h1>Backdoor Expolitation using Metasploit </h1>
 
- ## [Video Demonstration (38:41)](https://drive.google.com/file/d/1ozfcxE80ODhxWV1-2v5EPMv1_uyHX-eD/view?usp=drive_link)
+ ## [Video Demonstration (9:16)](https://drive.google.com/file/d/1TV4_Lvy94kclhVAjgHCTh1uaBdW2j8QT/view?usp=sharing)
 
 <h2>Description</h2>
 
@@ -49,8 +49,23 @@ In this lab I will demonstrates performimg a Backdoor exploitation to the Metasp
 <img src="https://i.imgur.com/XoMmqVP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">Performing the exploitation and displaying the ip address of the Metasploitable2 machine 10.0.2.3
+<p align="center">Creating a new user inside Metasploitable2 machine 10.0.2.3
 <br/>
-<img src="https://i.imgur.com/pqgxf4C.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KuROM4Y.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Verifying that the new user boxy has been added to /etc/passwd
+<br/>
+<img src="https://i.imgur.com/ZlCAY5g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">The new user boxy is displayed at the bottom of the list
+<br/>
+<img src="https://i.imgur.com/VOf7ipH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">Making the new user boxy an admin
+<br/>
+<img src="https://i.imgur.com/uy8DdTG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
